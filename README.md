@@ -1,8 +1,8 @@
 Execute the app.py on Windows by:<br>
 run.bat<br>
 
-Demo Video:
-[![Videoyu izleyin](https://www.youtube.com/watch?v=O9Q77JRDaxQ)
+
+![Demo Videsou](https://www.youtube.com/watch?v=O9Q77JRDaxQ)
 
 
 Poster:
