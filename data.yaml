@@ -1,0 +1,11 @@
+train: C:\Users\Enes\Desktop\bitirme\train\images # Path to training images
+val: C:\Users\Enes\Desktop\bitirme\train\images  # Path to validation images
+test: C:\Users\Enes\Desktop\bitirme\test\images    # Path to test images
+
+nc: 5  # Number of classes
+names:
+  0: person
+  1: drowsy
+  2: cigaratte
+  3: phone
+  4: food
