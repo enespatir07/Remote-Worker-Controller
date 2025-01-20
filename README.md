@@ -28,7 +28,6 @@ Remote Worker Control is an AI-powered application designed to monitor remote wo
 1. Clone the repository:
    ```bash
    git clone https://github.com/enespatir07/Remote-Worker-Controller.git
-   cd remote-worker-control
    ```
 
 2. Install the required dependencies:
